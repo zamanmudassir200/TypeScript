@@ -1,7 +1,8 @@
-var greetings = "hello Mudassir";
-var myNum = 24;
+"use strict";
+let greetings = "hello Mudassir";
+let myNum = 24;
 console.log(myNum);
-var hero;
+let hero;
 function getHero() {
     return "thor";
 }
